@@ -1,6 +1,6 @@
 # 🚦 Traffic Predictor  
 
-Predict traffic conditions across different locations using **historical data** and **machine learning models**.  
+Predict traffic conditions of New York City using  **historical data** and **machine learning models**.  
 This project focuses on **time-series traffic prediction**, leveraging temporal, spatial, and lag-based features.  
 
 ---
